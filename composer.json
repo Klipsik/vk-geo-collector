@@ -1,9 +1,7 @@
 {
-	"name":"h-zone/vk-geo-collector",
+	"name":"agrun1/vk-geo-collector",
 	"description":"Collect GEO data from social network VKontakte: Countries, Regions, Cities, etc.",
 	"keywords":[
-		"h-zone",
-		"hzone",
 		"vk-geo-collector",
 		"geo-collector",
 		"vk-geo"
